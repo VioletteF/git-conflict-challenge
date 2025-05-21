@@ -1,1 +1,1 @@
-# git-conflict-challenge non, c'est moi qui la modifie cette 1ere ligne!
+# git-conflict-challenge Je modifie cette 1ere ligne!
